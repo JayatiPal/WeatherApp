@@ -43,5 +43,4 @@ Import and use the `WeatherWidget` component with your coordinates:
 1. Fork -> Branch -> Commit -> Push -> PR  
 2. Follow code style and add tests if needed.
 
-## License
-MIT License. OpenWeatherMap and LottieFiles assets follow their own licenses.
+
